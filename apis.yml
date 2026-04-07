@@ -9,11 +9,11 @@ specificationVersion: '0.18'
 url: https://angular.io
 tags:
   - Framework
-  - JavaScript
-  - TypeScript
-  - SPA
-  - Web Development
   - Frontend
+  - JavaScript
+  - SPA
+  - TypeScript
+  - Web Development
 apis:
   - name: Angular DevTools Extension API
     description: >-
@@ -22,8 +22,8 @@ apis:
     humanURL: https://angular.io/guide/devtools
     baseURL: chrome-extension://
     tags:
-      - DevTools
       - Debugging
+      - DevTools
       - Performance
     properties:
       - type: Documentation
@@ -37,9 +37,9 @@ apis:
     humanURL: https://angular.io/cli
     baseURL: https://cli.angular.io
     tags:
+      - Build Tools
       - CLI
       - Development Tools
-      - Build Tools
     properties:
       - type: Documentation
         url: https://angular.io/cli
@@ -54,9 +54,9 @@ apis:
     humanURL: https://angular.io/api/core/Compiler
     baseURL: https://angular.io/api
     tags:
-      - Compiler
       - AOT
       - Build
+      - Compiler
     properties:
       - type: Documentation
         url: https://angular.io/api/core/Compiler
@@ -69,9 +69,9 @@ apis:
     humanURL: https://angular.io/api/common/http/HttpClient
     baseURL: https://angular.io/api
     tags:
+      - API Client
       - HTTP
       - REST
-      - API Client
     properties:
       - type: Documentation
         url: https://angular.io/guide/http
@@ -84,8 +84,8 @@ apis:
     humanURL: https://angular.io/api/router
     baseURL: https://angular.io/api
     tags:
-      - Router
       - Navigation
+      - Router
       - SPA
     properties:
       - type: Documentation
@@ -100,8 +100,8 @@ apis:
     baseURL: https://angular.io/api
     tags:
       - Forms
-      - Validation
       - User Input
+      - Validation
     properties:
       - type: Documentation
         url: https://angular.io/guide/forms-overview
@@ -129,9 +129,9 @@ apis:
     humanURL: https://angular.io/api/service-worker
     baseURL: https://angular.io/api
     tags:
-      - Service Worker
-      - PWA
       - Offline
+      - PWA
+      - Service Worker
     properties:
       - type: Documentation
         url: https://angular.io/guide/service-worker-intro
