@@ -188,6 +188,8 @@ type: Index
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: Open Source
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/angularframework
   - url: https://angular.dev/
     name: Angular Documentation
     type: Documentation
