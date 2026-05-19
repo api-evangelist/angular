@@ -224,8 +224,11 @@ common:
   - url: https://www.youtube.com/angular
     name: Angular YouTube Channel
     type: YouTube
+  - name: Agent Skills
+    url: https://github.com/angular/skills
+    type: AgentSkill
 created: '2024-01-01'
-modified: '2026-04-19'
+modified: '2026-05-19'
 specificationVersion: '0.19'
 description: >-
   Angular is an open-source TypeScript-based web application framework maintained
