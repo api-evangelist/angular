@@ -12,7 +12,7 @@ apis:
       - Standalone Components
       - TypeScript
       - Zoneless
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://angular.dev/api/core
     humanURL: https://angular.dev/api/core
     properties:
@@ -32,7 +32,7 @@ apis:
       - CLI
       - Development Tools
       - Scaffolding
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://cli.angular.io
     humanURL: https://angular.dev/tools/cli
     properties:
@@ -54,7 +54,7 @@ apis:
       - Navigation
       - Render Mode
       - Routing
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://angular.dev/api/router
     humanURL: https://angular.dev/api/router
     properties:
@@ -73,7 +73,7 @@ apis:
       - Reactive Forms
       - Typed Forms
       - Validation
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://angular.dev/api/forms
     humanURL: https://angular.dev/api/forms
     properties:
@@ -90,7 +90,7 @@ apis:
       - HTTP
       - Interceptors
       - REST
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://angular.dev/api/common/http
     humanURL: https://angular.dev/api/common/http
     properties:
@@ -107,7 +107,7 @@ apis:
       - Animations
       - Keyframes
       - Transitions
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://angular.dev/api/animations
     humanURL: https://angular.dev/api/animations
     properties:
@@ -124,7 +124,7 @@ apis:
       - Offline
       - PWA
       - Service Worker
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://angular.dev/api/service-worker
     humanURL: https://angular.dev/api/service-worker
     properties:
@@ -142,7 +142,7 @@ apis:
       - Incremental Hydration
       - SSR
       - Server-Side Rendering
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://angular.dev/api/platform-server
     humanURL: https://angular.dev/api/platform-server
     properties:
@@ -160,7 +160,7 @@ apis:
       - DevTools
       - Performance
       - Profiling
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://angular.dev/tools/devtools
     humanURL: https://angular.dev/tools/devtools
     properties:
@@ -185,7 +185,7 @@ tags:
   - Web Development
   - Zoneless
 type: Index
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 access: Open Source
 common:
   - type: LinkedIn
