@@ -160,13 +160,27 @@ apis:
     type: GitHub
   description: Angular DevTools is a browser extension for debugging and profiling Angular applications
     with component tree inspection, change detection profiling, and dependency injection debugging.
+- aid: angular:angular-common-api
+  name: Angular Common API
+  tags:
+  - Directives
+  - Pipes
+  - Utilities
+  image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+  baseURL: https://angular.dev/api/common
+  humanURL: https://angular.dev/api/common
+  properties:
+  - url: https://angular.dev/api/common
+    type: Documentation
+  description: Reference for the @angular/common package - common directives (NgClass, NgStyle, NgTemplateOutlet),
+    pipes (DatePipe, CurrencyPipe, AsyncPipe), Location services and locale utilities.
 name: Angular
 tags:
 - Deferrable Views
 - Framework
 - Frontend
 - JavaScript
-- Open-Source
+- Open Source
 - Signals
 - Single Page Application
 - TypeScript
@@ -183,6 +197,7 @@ tags_raw:
 - TypeScript
 - Web Development
 - Zoneless
+- Open-Source
 type: Index
 deliveryModel:
   model: unknown
