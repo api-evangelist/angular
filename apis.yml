@@ -147,6 +147,11 @@ apis:
   name: Angular DevTools
   tags:
   - Debugging
+  - Developer Tools
+  - Performance
+  - Profiling
+  tags_raw:
+  - Debugging
   - DevTools
   - Performance
   - Profiling
