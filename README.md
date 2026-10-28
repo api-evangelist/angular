@@ -1,4 +1,4 @@
-# Angular (angular)
+# Angular
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,177 +66,118 @@
 
 Angular is an open-source TypeScript-based web application framework maintained by Google and a community of contributors. It provides a comprehensive platform for building single-page applications with a component-based architecture, reactive Signals, deferrable views, built-in control flow, zoneless change detection, server-side rendering, and the Angular CLI. Angular follows a major release cadence of two versions per year.
 
-**URL:** [https://raw.githubusercontent.com/api-evangelist/angular/refs/heads/main/apis.yml](https://raw.githubusercontent.com/api-evangelist/angular/refs/heads/main/apis.yml)
+**Areas:** Deferrable Views · Framework · Frontend · JavaScript · Open Source · Signals · Single Page Application · TypeScript · Web Development · Zoneless
 
-## Scope
+## Angular on APIs.io
 
-- **Type:** Index
-- **Access:** Open Source
+Everything profiled for Angular is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/angular/](https://apis.io/providers/angular/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (10)
 
- - Deferrable Views, Framework, Frontend, JavaScript, Open Source, Signals, Single Page Application, TypeScript, Web Development, Zoneless
+- [Angular Core API](https://apis.io/apis/angular/angular-core-api/) — The Angular Core API provides the fundamental building blocks of the Angular framework including components, directives, pipes, dependency injection,…
+- [Angular CLI](https://apis.io/apis/angular/angular-cli/) — The Angular CLI is the official command-line interface for creating, building, testing, and deploying Angular applications. It provides scaffolding,…
+- [Angular Router API](https://apis.io/apis/angular/angular-router-api/) — The Angular Router API provides navigation and routing for single-page applications including lazy loading, route guards, resolvers, child routes,…
+- [Angular Forms API](https://apis.io/apis/angular/angular-forms-api/) — Angular Forms API providing strictly typed reactive forms and template-driven forms with comprehensive validation support.
+- [Angular HTTP Client API](https://apis.io/apis/angular/angular-http-client-api/) — Angular HTTP client API for making REST requests with functional interceptors, progress events, typed responses, and signal-based resource APIs.
+- [Angular Animations API](https://apis.io/apis/angular/angular-animations-api/) — Angular Animations API for creating declarative state-based animations using triggers, transitions, and keyframe sequences.
+- [Angular Service Worker API](https://apis.io/apis/angular/angular-service-worker-api/) — Angular Service Worker API for building Progressive Web Applications with offline caching, push notifications, and background sync support.
+- [Angular Platform Server API](https://apis.io/apis/angular/angular-platform-server-api/) — Angular Platform Server API for server-side rendering with non-destructive hydration and incremental hydration support.
+- [Angular DevTools](https://apis.io/apis/angular/angular-devtools/) — Angular DevTools is a browser extension for debugging and profiling Angular applications with component tree inspection, change detection profiling, and…
+- [Angular Common API](https://apis.io/apis/angular/angular-common-api/) — Reference for the @angular/common package - common directives (NgClass, NgStyle, NgTemplateOutlet), pipes (DatePipe, CurrencyPipe, AsyncPipe), Location…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2024-01-01
-- **Modified:** 2026-04-19
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Agent skills (2)
 
-### Angular Core API
+Agent skills built on the API.
 
-The Angular Core API provides the fundamental building blocks of the Angular framework including components, directives, pipes, dependency injection, Signals for reactive state management, standalone components, and zoneless change detection.
+- [angular-developer](https://apis.io/agent-skills/angular/angular-developer/)
+- [angular-new-app](https://apis.io/agent-skills/angular/angular-new-app/)
 
-**Human URL:** [https://angular.dev/api/core](https://angular.dev/api/core)
+#### Security (1)
 
-#### Tags:
+Authentication, trust centre, and vulnerability disclosure.
 
- - Components, Decorators, Dependency Injection, Framework, Signals, Standalone Components, TypeScript, Zoneless
+- [Angular Domain Security](https://apis.io/security/angular/angular-domain-security/)
 
-#### Properties
+#### Plans and pricing (1)
 
-- [Documentation](https://angular.dev/api/core)
-- [GitHub](https://github.com/angular/angular)
+Published plans, tiers and prices.
 
-### Angular CLI
+- [Angular Plans Pricing](https://apis.io/plans/angular/angular-plans-pricing/)
 
-The Angular CLI is the official command-line interface for creating, building, testing, and deploying Angular applications. It provides scaffolding, Vite-based development server, esbuild optimization, schematic support, and ng add/generate/deploy commands.
+#### Rate limits (1)
 
-**Human URL:** [https://angular.dev/tools/cli](https://angular.dev/tools/cli)
+Published request limits.
 
-#### Tags:
+- [Angular Rate Limits](https://apis.io/rate-limits/angular/angular-rate-limits/)
 
- - Build Tools, CLI, Development Tools, Scaffolding
+#### FinOps (1)
 
-#### Properties
+What the API costs to run, by operation.
 
-- [Documentation](https://angular.dev/tools/cli)
-- [GitHub](https://github.com/angular/angular-cli)
-- [PackageRegistry](https://www.npmjs.com/package/@angular/cli)
+- [Angular Finops](https://apis.io/finops/angular/angular-finops/)
 
-### Angular Router API
+## Where to find this API
 
-The Angular Router API provides navigation and routing for single-page applications including lazy loading, route guards, resolvers, child routes, functional interceptors, and route-level render mode configuration.
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-**Human URL:** [https://angular.dev/api/router](https://angular.dev/api/router)
-
-#### Tags:
-
- - Guards, Navigation, Render Mode, Routing
-
-#### Properties
-
-- [Documentation](https://angular.dev/api/router)
-- [Guide](https://angular.dev/guide/routing)
-
-### Angular Forms API
-
-Angular Forms API providing strictly typed reactive forms and template-driven forms with comprehensive validation support.
-
-**Human URL:** [https://angular.dev/api/forms](https://angular.dev/api/forms)
-
-#### Tags:
-
- - Forms, Reactive Forms, Typed Forms, Validation
-
-#### Properties
-
-- [Documentation](https://angular.dev/api/forms)
-- [Guide](https://angular.dev/guide/forms)
-
-### Angular HTTP Client API
-
-Angular HTTP client API for making REST requests with functional interceptors, progress events, typed responses, and signal-based resource APIs.
-
-**Human URL:** [https://angular.dev/api/common/http](https://angular.dev/api/common/http)
-
-#### Tags:
-
- - HTTP, Interceptors, REST
-
-#### Properties
-
-- [Documentation](https://angular.dev/api/common/http)
-- [Guide](https://angular.dev/guide/http)
-
-### Angular Animations API
-
-Angular Animations API for creating declarative state-based animations using triggers, transitions, and keyframe sequences.
-
-**Human URL:** [https://angular.dev/api/animations](https://angular.dev/api/animations)
-
-#### Tags:
-
- - Animations, Keyframes, Transitions
-
-#### Properties
-
-- [Documentation](https://angular.dev/api/animations)
-- [Guide](https://angular.dev/guide/animations)
-
-### Angular Service Worker API
-
-Angular Service Worker API for building Progressive Web Applications with offline caching, push notifications, and background sync support.
-
-**Human URL:** [https://angular.dev/api/service-worker](https://angular.dev/api/service-worker)
-
-#### Tags:
-
- - Offline, PWA, Service Worker
-
-#### Properties
-
-- [Documentation](https://angular.dev/api/service-worker)
-- [Guide](https://angular.dev/guide/service-worker-intro)
-
-### Angular Platform Server API
-
-Angular Platform Server API for server-side rendering with non-destructive hydration and incremental hydration support.
-
-**Human URL:** [https://angular.dev/api/platform-server](https://angular.dev/api/platform-server)
-
-#### Tags:
-
- - Hydration, Incremental Hydration, SSR, Server-Side Rendering
-
-#### Properties
-
-- [Documentation](https://angular.dev/api/platform-server)
-- [Guide](https://angular.dev/guide/ssr)
-
-### Angular DevTools
-
-Angular DevTools is a browser extension for debugging and profiling Angular applications with component tree inspection, change detection profiling, and dependency injection debugging.
-
-**Human URL:** [https://angular.dev/tools/devtools](https://angular.dev/tools/devtools)
-
-#### Tags:
-
- - Debugging, DevTools, Performance, Profiling
-
-#### Properties
-
-- [Documentation](https://angular.dev/tools/devtools)
-- [GitHub](https://github.com/angular/angular/tree/main/devtools)
-
-## Common Properties
-
+- [Website](https://angular.dev)
 - [Documentation](https://angular.dev/)
-- [GitHub](https://github.com/angular/angular)
-- [GitHubOrganization](https://github.com/angular)
 - [Blog](https://blog.angular.dev/)
-- [Roadmap](https://angular.dev/roadmap)
-- [PackageRegistry](https://www.npmjs.com/package/@angular/core)
-- [License](https://github.com/angular/angular/blob/main/LICENSE)
-- [Contributing](https://github.com/angular/angular/blob/main/CONTRIBUTING.md)
-- [StackOverflow](https://stackoverflow.com/questions/tagged/angular)
-- [Discord](https://discord.gg/angular)
-- [X](https://twitter.com/angular)
-- [YouTube](https://www.youtube.com/angular)
+- [GitHub](https://github.com/angular)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** API Evangelist
+**Kin Score 13.8** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** info@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 18.4 |
+| Developer ergonomics | 23.1 |
+| Access clarity | 7.9 |
+
+**Agent readiness 3.9** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/angular/](https://apis.io/providers/angular/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Angular: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/angular/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
